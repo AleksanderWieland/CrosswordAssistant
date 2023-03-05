@@ -1,4 +1,5 @@
-# projekt-2022-wieland
+# CrosswordAssistant
+# Projekt stworzony w ramach przedmiotu Wstęp do programowania na kierunku Geoinformacja
 
 # 1. Autorzy.
 
