@@ -1,5 +1,5 @@
 # CrosswordAssistant
-## Projekt stworzony w ramach przedmiotu Wstęp do programowania na kierunku Geoinformacja
+Projekt stworzony w ramach przedmiotu Wstęp do programowania na kierunku Geoinformacja
 
 # 1. Autorzy.
 
